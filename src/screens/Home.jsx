@@ -86,14 +86,14 @@ const Home = () => {
           justifyContent: 'space-between',
         }}>
         <Feather style={{}} name="search" size={25} />
-        <TextInput
+        {/* <TextInput
           style={{
             width: '80%',
             borderColor: 'grey',
             borderColor: '#BBBBBB',
           }}
           placeholder="Search any Product.."
-        />
+        /> */}
         <FontAwesome style={{}} name="microphone" size={25} />
       </View>
       <View
