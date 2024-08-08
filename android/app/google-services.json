@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "963094530782",
+    "project_id": "shafi-7dbfb",
+    "storage_bucket": "shafi-7dbfb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:963094530782:android:846e1ce1088be6ea42104f",
+        "android_client_info": {
+          "package_name": "com.estore"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDCtNOxWvw5knaX6o3JAZAk6ixNV5rqhIw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
